@@ -19,8 +19,8 @@ A simple and interactive Streamlit web app to classify whether an uploaded image
 
  **Clone the repository**
    ```bash
-   git clone https://github.com/Arik-code98/SCT_ML_02.git
-   cd SCT_ML_02
+   git clone https://github.com/Arik-code98/SCT_ML_03.git
+   cd SCT_ML_03
 
    streamlit run app.py #This runs the model on a localhost server
 
